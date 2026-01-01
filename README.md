@@ -28,6 +28,8 @@ Extract historical stock data and revenue information for Tesla and GameStop usi
         Ensure visual clarity and user-friendly interactivity
 
 ## 📁 Files Included
+## 📂 **Project Files**
+- [`Final_Assignment_Stock_Analysis.ipynb`](http://localhost:8890/files/Final%20Assignment(2).ipynb?_xsrf=2%7C89cb8071%7Cbcfd455fc60d5500ad60e2fed3c3de8d%7C1766500857) - Main notebook with complete analysis
 
 ## 🔍 **View Notebook Online**
 - **GitHub:** [View on GitHub](http://localhost:8890/lab/tree/Final%20Assignment(2).ipynb)
