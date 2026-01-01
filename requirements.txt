@@ -1,16 +1,15 @@
 # Data manipulation
-pandas>=1.5.0
-numpy>=1.21.0
+pandas
+numpy
 
 # Data visualization
-matplotlib>=3.5.0
-seaborn>=0.11.0
-plotly>=5.10.0
+matplotlib
+seaborn
+plotly
 
 # Stock data APIs
-yfinance>=0.2.0
-pandas-datareader>=0.10.0
-alpha_vantage>=2.3.0  # If using Alpha Vantage API
+yfinance
+pandas-datareader
 
-# Technical analysis
-ta>=0.10.0  # Technical Analysis Library
+
+
