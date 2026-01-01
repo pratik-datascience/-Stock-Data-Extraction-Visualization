@@ -1,7 +1,7 @@
 # Stock-Data-Extraction-Visualization
 Extract historical stock data and revenue information for Tesla and GameStop using yfinance and web scraping, then visualize the trends in interactive plots to support data-driven decision-making.
 
-##📊 Project Workflow
+## 📊 Project Workflow
 
     Data Extraction
 
@@ -29,12 +29,8 @@ Extract historical stock data and revenue information for Tesla and GameStop usi
 
 ## 📁 Files Included
 
-    Final_Assignment_Stock_Analysis.ipynb – Complete Jupyter notebook with code, outputs, and visualizations
-    ## 📂 **Project Files**
-- [`Final_Assignment_Stock_Analysis.ipynb`](https://github.com/your-username/stock-analysis/blob/main/Final_Assignment_Stock_Analysis.ipynb) - Main notebook with complete analysis
-
 ## 🔍 **View Notebook Online**
-- **GitHub:** [View on GitHub](https://github.com/your-username/stock-analysis/blob/main/Final_Assignment_Stock_Analysis.ipynb)
+- **GitHub:** [View on GitHub](http://localhost:8890/lab/tree/Final%20Assignment(2).ipynb)
 
     README.md – This project description
 
