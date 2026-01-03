@@ -55,4 +55,4 @@ Extract historical stock data and revenue information for Tesla and GameStop usi
 
     Interactive graphs allow for temporal analysis of stock vs. revenue correlation
 
-
+![Image Alt](https://github.com/pratik-datascience/-Stock-Data-Extraction-Visualization/blob/main/Screenshot%202026-01-01%20195431.png?raw=true)
