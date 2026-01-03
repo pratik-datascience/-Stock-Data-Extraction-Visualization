@@ -1,4 +1,4 @@
-# Stock-Data-Extraction-Visualization
+f# Stock-Data-Extraction-Visualization
 Extract historical stock data and revenue information for Tesla and GameStop using yfinance and web scraping, then visualize the trends in interactive plots to support data-driven decision-making.
 
 ## 📊 Project Workflow
@@ -55,6 +55,4 @@ Extract historical stock data and revenue information for Tesla and GameStop usi
 
     Interactive graphs allow for temporal analysis of stock vs. revenue correlation
 
-## Output Graph
-    ![image alt](https://github.com/pratik-datascience/-Stock-Data-Extraction-Visualization/blob/b58afdf85169bd19b81fbf80ddc0374a65c1185a/Screenshot%202026-01-01%20195431.png)
-    
+
