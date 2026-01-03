@@ -1,0 +1,3 @@
+
+## Output Tesla stock
+![Image Alt](https://github.com/pratik-datascience/-Stock-Data-Extraction-Visualization/blob/main/Screenshot%202026-01-01%20195431.png?raw=true)
