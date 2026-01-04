@@ -2,9 +2,9 @@
 ## Project Overview
 
     This capstone project is part of the IBM Data Analyst Professional Certificate (Coursera).
-    The objective is to analyze real-world datasets to uncover trends, patterns, and insights related to the data analyst job market using SQL,          Python, Excel, and data visualization tools.
+    The objective is to analyze real-world datasets to uncover trends, patterns, and insights related to the data analyst job market using SQL,Python, Excel, and data visualization tools.
     
-    Additionally, the project includes historical stock price and revenue analysis for Tesla (TSLA) and GameStop (GME) using yfinance and web            scraping, with interactive visualizations to support data-driven decision-making.
+    Additionally, the project includes historical stock price and revenue analysis for Tesla (TSLA) and GameStop (GME) using yfinance and web scraping, with interactive visualizations to support data-driven decision-making.
 
 ## Objectives
 
