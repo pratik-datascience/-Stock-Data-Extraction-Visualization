@@ -1,4 +1,11 @@
-f# Stock-Data-Extraction-Visualization
+📌 Project Title
+# Analyzing and Visualizing Job Market Trends for Data Analysts
+
+🧾 Project Overview
+
+This capstone project is part of the IBM Data Analyst Professional Certificate on Coursera.
+The goal of this project is to analyze real-world datasets to identify trends, patterns, and insights related to the data analyst job market using SQL, Python, Excel, and Data Visualization tools.
+
 Extract historical stock data and revenue information for Tesla and GameStop using yfinance and web scraping, then visualize the trends in interactive plots to support data-driven decision-making.
 
 ## 📊 Project Workflow
