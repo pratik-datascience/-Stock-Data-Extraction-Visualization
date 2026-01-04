@@ -8,25 +8,25 @@
 
 ## Objectives
 
-    Clean and prepare raw datasets for analysis
+    - Clean and prepare raw datasets for analysis
     
-    Perform exploratory data analysis (EDA)
+    - Perform exploratory data analysis (EDA)
     
-    Extract insights using SQL queries
+    - Extract insights using SQL queries
     
-    Visualize trends using Python visualization libraries
+    - Visualize trends using Python visualization libraries
     
-    Communicate findings through dashboards and reports
+    - Communicate findings through dashboards and reports
 
 ## Tools & Technologies Used
-    Category	Tools
-    Programming	Python
-    Libraries	Pandas, NumPy, Matplotlib, Seaborn, Plotly
-    Database	SQL (SQLite / MySQL)
-    Visualization	IBM Cognos, Plotly, Matplotlib
-    Spreadsheet	Microsoft Excel
-    Platform	Jupyter Notebook
-    Version Control	Git & GitHub
+    Category            Tools
+    Programming-     Python
+    Libraries-       Pandas, NumPy, Matplotlib, Seaborn, Plotly
+    Database-        SQL (SQLite / MySQL)
+    Visualization-   IBM Cognos, Plotly, Matplotlib
+    Spreadsheet-     Microsoft Excel
+    Platform-        Jupyter Notebook
+    Version Control- Git & GitHub
 ## Project Structure
     IBM-Data-Analyst-Capstone/
     │
@@ -49,25 +49,25 @@
     └── requirements.txt
 
 ## Project Workflow
-    Data Extraction
+    ~ Data Extraction
     
-    Retrieved historical stock price data for Tesla and GameStop using yfinance
+        Retrieved historical stock price data for Tesla and GameStop using yfinance
     
-    Scraped quarterly revenue data from financial websites using BeautifulSoup
+        Scraped quarterly revenue data from financial websites using BeautifulSoup
     
-    Data Cleaning
+    ~ Data Cleaning
     
-    Handled missing and inconsistent values
+        Handled missing and inconsistent values
     
-    Converted revenue columns to numeric format
+        Converted revenue columns to numeric format
     
-    Ensured correct date and index formatting
+        Ensured correct date and index formatting
     
-    Exploratory Data Analysis (EDA)
+    ~ Exploratory Data Analysis (EDA)
     
-    Analyzed job market trends including skill demand, salary distribution, and role frequency
+        Analyzed job market trends including skill demand, salary distribution, and role frequency
     
-    Identified patterns in stock price and revenue movements
+        Identified patterns in stock price and revenue movements
 
 ## Visualization & Dashboard Design
     Job Market Visualizations
@@ -100,29 +100,29 @@
 
 ## Key Insights
     
-    Tesla’s stock price experienced rapid growth after 2020, reflecting increased investor confidence
+    ~ Tesla’s stock price experienced rapid growth after 2020, reflecting increased investor confidence
     
-    GameStop’s revenue and stock price trends highlight extreme volatility during meme-stock events
+    ~ GameStop’s revenue and stock price trends highlight extreme volatility during meme-stock events
     
-    Job market analysis shows consistent demand for SQL, Python, and data visualization skills
+    ~ Job market analysis shows consistent demand for SQL, Python, and data visualization skills
     
-    Interactive dashboards enhance trend comparison and time-based analysis
+    ~ Interactive dashboards enhance trend comparison and time-based analysis
 
 ## How to Run This Project
 
-    Clone the repository
+    ~ Clone the repository
     
-    git clone https://github.com/your-username/ibm-data-analyst-capstone-project.git
-    
-    
-    Install dependencies
-    
-    pip install -r requirements.txt
+        git clone https://github.com/your-username/ibm-data-analyst-capstone-project.git
     
     
-    Open Jupyter Notebook
+    ~ Install dependencies
     
-    jupyter notebook
+        pip install -r requirements.txt
+    
+    
+    ~ Open Jupyter Notebook
+    
+        jupyter notebook
 
 ## Certification
 
