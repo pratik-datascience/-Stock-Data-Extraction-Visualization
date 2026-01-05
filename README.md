@@ -137,7 +137,7 @@
     BSc Computer Science Graduate
     Aspiring Data Analyst / Data Scientist
     
-    🔗 LinkedIn: (optional)
+    🔗 LinkedIn: www.linkedin.com/in/pratik-khobragade-722227319
     🔗 GitHub: (your profile link)
 
 ## Acknowledgements
